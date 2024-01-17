@@ -17,6 +17,10 @@ console.log(`numero scelto dal computer:${numeroCasuale}`);
 
 
 
+// OVVIAMENTE NON FUNZIONA NULLA :-(
+
+
+
 
 
 
