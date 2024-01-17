@@ -11,4 +11,4 @@
 - Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione).
 - Dichiariamo chi ha vinto.
 
-ES.2 SUPER CASINO!
+ES.2 SUPER CASINO! (Non che il primo sia semplice...)
