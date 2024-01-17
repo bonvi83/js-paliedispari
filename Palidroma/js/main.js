@@ -9,8 +9,8 @@ utente = prompt("Inserisci una parola e ti dirò se è palindroma");
 function palindroma(parola) {
     let lunghezza = parola.length;
     for (var i = 0; i <= lunghezza / 2;)
-    if (parola[i++] !== parola [lunghezza - i]) return "NON palindroma";
-    return "palindroma"
+        if (parola[i++] !== parola [lunghezza - i]) return "NON palindroma";
+        return "palindroma"
 }
 
 

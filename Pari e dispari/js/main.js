@@ -1,30 +1,25 @@
-let utente;
-let pc;
-
-
-// funzione per creare numeri random
-function numberRandom (){
-    return Math.floor(Math.random() * 5 + 1);
-}
+let pariDispari = prompt ("Scegli pari o dispari.")
+let numeroUtente = parseInt (prompt("Scegli un numero da 1 a 5."))
 
 
 
-// comunico il risultato
-// let risultato = document.getElementById("risposta");
-// risultato.innerHTML = (palindroma(utente))
-
-function somma(a, b){
-    let risultato = a + b;
-    return risultato;
-
-}
 
 
-function ciao(nome){
-    console.log("ciao " + nome)
-}
 
-let abbello;
-let result = somma(3 , 2);
-let result2 = somma(1 , 2);
-ciao("Anna");
+
+
+// function somma(a, b){
+//     let risultato = a + b;
+//     return risultato;
+
+// }
+
+
+// function ciao(nome){
+//     console.log("ciao " + nome)
+// }
+
+// let abbello;
+// let result = somma(3 , 2);
+// let result2 = somma(1 , 2);
+// ciao("Anna");
